@@ -1,0 +1,10 @@
+python-dotenv
+datasets
+langchain
+neo4j
+llama-index
+boto3
+llama-index-llms-bedrock
+llama-index-llms-bedrock-converse
+llama-index-graph-stores-neo4j
+llama-index-embeddings-bedrock
